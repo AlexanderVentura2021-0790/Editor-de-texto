@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\bin\Debug\tarea 4.exe.config
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\bin\Debug\tarea 4.exe
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\bin\Debug\tarea 4.pdb
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\obj\Debug\tarea 4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\obj\Debug\tarea 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\obj\Debug\tarea_4.Form1.resources
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\obj\Debug\tarea_4.Properties.Resources.resources
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\obj\Debug\tarea 4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\obj\Debug\tarea 4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\obj\Debug\tarea 4.exe
+C:\Users\User\Desktop\diseño centrado\EditorTexto\tarea 4\obj\Debug\tarea 4.pdb
